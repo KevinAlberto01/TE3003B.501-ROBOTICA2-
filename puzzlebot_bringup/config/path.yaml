@@ -1,0 +1,7 @@
+path:
+  ros__parameters:
+    float_array: [0.0, 2.0]  
+
+time:
+  ros__parameters:
+    float_number: 0.01
